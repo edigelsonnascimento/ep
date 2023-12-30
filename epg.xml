@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv>
-    <channel id="IPPTV">
-        <display-name>IPPTV</display-name>
-        <url>http://link-do-seu-stream</url>
-    </channel>
-    
-    <programme start="20230101T000000 +0000" stop="20240102T000000 +0000" channel="IPPTV">
-        <title>IPPTV</title>
-        <desc>Canal no YouTube da Primeira Igreja Presbiteriana de Pinheiros</desc>
+<?xml version="1.0" encoding="UTF-8"?>
+<epg>
+  <channel id="1" name="Canal de Teste">
+    <programme start="2023-12-30 08:00 -0300" stop="2023-12-30 09:00 -0300">
+      <title>Programa Matinal</title>
+      <description>Um programa matinal divertido.</description>
     </programme>
-    
-    <!-- Adicione mais programas aqui -->
-</tv>
+    <programme start="2023-12-30 09:00 -0300" stop="2023-12-30 11:00 -0300">
+      <title>Entrevistas ao Vivo</title>
+      <description>Entrevistas exclusivas com convidados especiais.</description>
+    </programme>
+    <!-- Adicione mais programas conforme necessÃ¡rio -->
+  </channel>
+</epg>
