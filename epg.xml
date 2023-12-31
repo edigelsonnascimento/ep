@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<epg>
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
   <channel id="IPPTV" name="IPPTV">
     <programme start="2023-12-31T14:00:00+00:00" stop="2024-12-31T14:00:00+00:00">
       <title>Programa Matinal</title>
       <description>Um programa matinal divertido.</description>
     </programme>
+
+<programme start="20231229000000 -0300" stop="20241229120000 -0300" channel="Canalteste">
+      <title lang="pt">Programação de Teste</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Canal em fase de testes</desc></programme>
+
     <!-- Adicione mais programas conforme necessÃ¡rio -->
   </channel>
-</epg>
