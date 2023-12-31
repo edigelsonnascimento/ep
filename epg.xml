@@ -8,7 +8,7 @@
     <programme start="20231231120000 -0300" stop="20240101000000 -0300" channel="Canalteste">
       <title lang="pt">Programação de Teste</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt"> Canal em fase de testes</desc></programme>
-    <programme start="20240101000000 -0300" stop="20241201120000 -0300" channel="Canalteste">
+    <programme start="20240101000000 -0300" stop="20240101120000 -0300" channel="Canalteste">
       <title lang="pt">IPPTV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
 
