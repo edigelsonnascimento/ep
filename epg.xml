@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-  <channel id="IPPTV" name="IPPTV">
-    <programme start="2023-12-31T14:00:00+00:00" stop="2024-12-31T14:00:00+00:00">
+  <channel id="Canalteste" name="IPPTV">
+    <programme start="20231229000000 -0300" stop="20231231120000 -0300">
       <title>Programa Matinal</title>
       <description>Um programa matinal divertido.</description>
     </programme>
