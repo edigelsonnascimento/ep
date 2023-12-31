@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <epg>
   <channel id="Canalteste" name="IPPTV">
-    <programme start="2023-12-30 08:00 0300" stop="2024-12-30 09:00 0300">
+    <programme start="2023-12-30 08:00 +0300" stop="2024-12-30 23:00 +0300">
       <title>Programa Matinal</title>
       <description>Um programa matinal divertido.</description>
     </programme>
