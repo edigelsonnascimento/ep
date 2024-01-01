@@ -2,7 +2,6 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
   <channel id="Canalteste">
     <display-name lang="pt">IPPTV</display-name>
-    <icon src="" />
   </channel>
   <programme start="120000 -0300" stop="120000 -0300" channel="Canalteste">
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
@@ -10,7 +9,6 @@
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
-    <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
     <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
   </programme>
 </tv>
