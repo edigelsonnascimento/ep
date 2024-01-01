@@ -3,6 +3,9 @@
     <channel id="Canalteste">
         <display-name lang="pt">Canal Teste HD</display-name>
     </channel>
+    <channel id="Futura">
+        <display-name lang="pt">Canal Teste HD</display-name>
+    </channel>
     <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom" />
         <title lang="pt">IPPTV</title>
