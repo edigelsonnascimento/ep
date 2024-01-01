@@ -3,43 +3,7 @@
   <channel id="Canalteste">
     <display-name lang="pt">IPPTV</display-name>
   </channel>
-  <programme start="20240101120000" stop="20240101000000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="20240101000000" stop="20240101120000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="20240102120000" stop="20240102000000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="20240102000000" stop="2024-01-02T120000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-03T120000" stop="2024-01-03T000000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-03T000000" stop="2024-01-03T120000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-04T120000" stop="2024-01-04T000000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-04T000000" stop="2024-01-04T120000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-05T120000" stop="2024-01-05T000000" channel="Canalteste">
-    <title lang="pt">IPPTV</title>
-    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-  </programme>
-  <programme start="2024-01-05T000000" stop="2024-01-05T120000" channel="Canalteste">
+  <programme start="2023123100000 -0300" stop="2023123112000 -0300" channel="Canalteste">
     <title lang="pt">IPPTV</title>
     <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
   </programme>
