@@ -2,19 +2,19 @@
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
   <channel id="Canalteste"><display-name lang="pt">Canal Teste HD</display-name><icon src="" /></channel>
 
-<programme start="20231231000000 -0300" stop="20231231120000 -0300" channel="Canalteste">
+<programme start="20240101000000 -0300" stop="20240101120000 -0300" channel="Canalteste">
       <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
 
-    <programme start="20231231120000 -0300" stop="20240101000000 -0300" channel="Canalteste">
-      <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
-      <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
-
-    <programme start="20240101000000 -0300" stop="20240101120000 -0300" channel="Canalteste">
+    <programme start="20240101120000 -0300" stop="20240101000000 -0300" channel="Canalteste">
       <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
 
     <programme start="20240102000000 -0300" stop="20240102120000 -0300" channel="Canalteste">
+      <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
+
+    <programme start="20240103000000 -0300" stop="20240103120000 -0300" channel="Canalteste">
       <title lang="pt">IPPTV 1 ANO</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
 
