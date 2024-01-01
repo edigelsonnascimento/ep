@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
   <channel id="Canalteste">
-    <display-name lang="pt">IPPTV</display-name>
-  </channel>
+    <display-name lang="pt">IPPTV</display-name><icon src="" /></channel>
   <programme start="2023123100000 -0300" stop="2023123112000 -0300" channel="Canalteste">
     <title lang="pt">IPPTV</title>
     <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
