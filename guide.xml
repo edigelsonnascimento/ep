@@ -3,7 +3,12 @@
   <channel id="Canalteste">
     <display-name lang="pt">IPPTV</display-name>
   </channel>
-  <programme start="120000 -0300" stop="120000 -0300" channel="Canalteste">
+  <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
+    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+    <title lang="pt">IPPTV</title>
+    <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
+  </programme>
+  <programme start="000000 -0300" stop="120000 -0300" channel="Canalteste">
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <title lang="pt">IPPTV</title>
     <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
