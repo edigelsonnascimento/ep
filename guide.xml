@@ -3,7 +3,7 @@
     <channel id="Canalteste">
         <display-name lang="pt">Canalteste</display-name>
     </channel>
-    <programme start="00000000000000 -0300" stop="00000000235900 -0300" channel="Canalteste">
+    <programme start="20240101000000 -0300" stop="20240101235900 -0300" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom" />
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
