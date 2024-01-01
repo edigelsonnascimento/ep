@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Generator" generator-info-url="http://www.epggenerator.com">
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
     <channel id="Canalteste">
         <display-name lang="pt">Canal Teste HD</display-name>
     </channel>
