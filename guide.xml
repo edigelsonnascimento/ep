@@ -6,9 +6,6 @@
   <programme start="120000 -0300" stop="120000 -0300" channel="Canalteste">
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
     <title lang="pt">IPPTV</title>
-    <rating system="CLASSIND">
-      <value>A12</value>
-    </rating>
     <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
   </programme>
 </tv>
