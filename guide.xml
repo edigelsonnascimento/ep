@@ -6,9 +6,6 @@
     <programme start="000000 -0300" stop="235900 -0300" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom" />
         <title lang="pt">Teste</title>
-        <rating system="CLASSIND">
-            <value>Livre</value>
-        </rating>
         <desc lang="pt">test</desc>
     </programme>
 </tv>
