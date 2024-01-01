@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
   <channel id="Canalteste">
-    <display-name lang="pt">IPPTV HD</display-name>
+    <display-name lang="pt">IPPTV Youtube</display-name>
   </channel>
   <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
     <weekday days="seg,ter,qua,qui,sex,sab,dom" />
