@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+<tv generator-info-name="EPG Generator" generator-info-url="http://www.epggenerator.com">
     <channel id="Canalteste">
         <display-name lang="pt">Canal Teste HD</display-name>
     </channel>
-    <channel id="Futura">
-        <display-name lang="pt">Canal Teste HD</display-name>
-    </channel>
-    <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
+    <programme start="000000 -0300" stop="235900 -0300" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">IPPTV</title>
+        <title lang="pt">TÃ­tulo do Programa</title>
         <rating system="CLASSIND">
-            <value>AL</value>
+            <value>ClassificaÃ§Ã£o</value>
         </rating>
-        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
+        <desc lang="pt">DescriÃ§Ã£o do Programa</desc>
     </programme>
-    <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">IPPTV</title>
-        <rating system="CLASSIND">
-            <value>AL</value>
-        </rating>
-        <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
-        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-    </programme>
-
-    <programme start="120000 -0300" stop="000000 -0300" channel="Futura">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">Futura</title>
-        <rating system="CLASSIND">
-            <value>AL</value>
-        </rating>
-        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-    </programme>
-    <programme start="120000 -0300" stop="000000 -0300" channel="Futura">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">Futura</title>
-        <rating system="CLASSIND">
-            <value>AL</value>
-        </rating>
-        <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
-        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
-    </programme>
-
 </tv>
