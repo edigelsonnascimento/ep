@@ -4,7 +4,7 @@
         <display-name lang="pt">Canalteste</display-name>
     </channel>
     <programme start="000000 -0300" stop="235900 -0300" channel="Canalteste">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+        <weekday days="seg,ter,qua,qui,sex,sab,dom"/>
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
     </programme>
