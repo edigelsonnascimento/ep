@@ -23,4 +23,23 @@
         <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
         <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
     </programme>
+
+    <programme start="120000 -0300" stop="000000 -0300" channel="Futura">
+        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+        <title lang="pt">Futura</title>
+        <rating system="CLASSIND">
+            <value>AL</value>
+        </rating>
+        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
+    </programme>
+    <programme start="120000 -0300" stop="000000 -0300" channel="Futura">
+        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
+        <title lang="pt">Futura</title>
+        <rating system="CLASSIND">
+            <value>AL</value>
+        </rating>
+        <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+        <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc>
+    </programme>
+
 </tv>
