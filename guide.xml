@@ -3,17 +3,17 @@
     <channel id="Canalteste">
         <display-name lang="pt">Canalteste</display-name>
     </channel>
-    <programme start="000000 0000" stop="235900 0000" channel="Canalteste">
+    <programme start="000000 -0300" stop="235900 0000" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom"/>
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
     </programme>
-    <programme start="000000 0000" stop="235900 0000" channel="Canalteste">
+    <programme start="000000 -0300" stop="235900 0000" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom"/>
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
     </programme>
-    <programme start="000000 0000" stop="235900 0000" channel="Canalteste">
+    <programme start="000000 -0300" stop="235900 0000" channel="Canalteste">
         <weekday days="seg,ter,qua,qui,sex,sab,dom"/>
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
