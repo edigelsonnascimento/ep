@@ -18,9 +18,4 @@
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
     </programme>
-<programme start="000000 0000" stop="235900 0000" channel="Canalteste">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom"/>
-        <title lang="pt">Teste</title>
-        <desc lang="pt">test</desc>
-    </programme>
 </tv>
