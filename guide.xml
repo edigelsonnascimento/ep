@@ -11,14 +11,8 @@
         <title lang="pt">Teste</title>
         <desc lang="pt">test</desc>
     </programme>
-    <programme start="000000 -0300" stop="235900 0000" channel="Canalteste">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">Teste</title>
-        <desc lang="pt">test</desc>
-    </programme>
-    <programme start="000000 -0300" stop="235900 0000" channel="Canalteste">
-        <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-        <title lang="pt">Teste</title>
-        <desc lang="pt">test</desc>
-    </programme>
+    <programme start="20240104010000 -0200" stop="20240105005000 -0200" channel="CazeTV.br">
+<title>Programação Cazé TV</title>
+<desc>Assista aos jogos da Bundesliga, jogos do Brasileirão tendo Athlético-PR como mandante, US Open Cup e outos eventos esportivos.</desc>
+</programme>
 </tv>
