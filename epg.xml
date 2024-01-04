@@ -7,13 +7,8 @@
       <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
 
-    <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-      <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
-      <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
-
-   <programme start="120000 -0300" stop="000000 -0300" channel="Canalteste">
-    <weekday days="seg,ter,qua,qui,sex,sab,dom" />
-      <title lang="pt">IPPTV</title><rating system="CLASSIND"><value>AL</value></rating><icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
-      <desc lang="pt">Canal da Primeira Igreja Presbiteriana de Pinheiros (Youtube)</desc></programme>
+   <programme start="20240104010000 -0200" stop="20240105005000 -0200" channel="CazeTV.br">
+<title>Programação Cazé TV</title>
+<desc>Assista aos jogos da Bundesliga, jogos do Brasileirão tendo Athlético-PR como mandante, US Open Cup e outos eventos esportivos.</desc>
+</programme>
 </tv>
