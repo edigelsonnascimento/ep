@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-  <channel id="Canalteste"><display-name lang="pt"></display-name><icon src="" /></channel>
+  <channel id="Canalteste"></channel>
    <programme start="20240104010000 -0200" stop="20240105005000 -0200" channel="Canalteste">
 <weekday days="seg,ter,qua,qui,sex,sab,dom" />
 <title>Programação Cazé TV</title>
